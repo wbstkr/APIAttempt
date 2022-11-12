@@ -10,7 +10,7 @@ This is my attempt at using APIs from various sources in Processing.
 
 > <http://colormind.io/api-access/>
 
-- [ ]<http://www.colourlovers.com/api/palettes/random?format=json>
+- [ ] <http://www.colourlovers.com/api/palettes/random?format=json>
 
 > <http://www.colourlovers.com/api>
 
@@ -18,6 +18,6 @@ This is my attempt at using APIs from various sources in Processing.
 
 > <https://alexwohlbruck.github.io/cat-facts/>
 
-- [ ]<https://colorhunt.co/>
+- [ ] <https://colorhunt.co/>
 
 > <https://stackoverflow.com/questions/50855199/get-color-palettes-from-colorhunt-co-in-python>
